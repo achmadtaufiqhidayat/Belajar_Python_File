@@ -1,0 +1,19 @@
+{
+    "member": [
+        {
+            "nama": "Naruto",
+            "skill": "punch",
+            "power": 100
+        },
+        {
+            "nama": "Lee",
+            "skill": "kick",
+            "power": 100
+        },
+        {
+            "nama": "Narto",
+            "skill": "kick",
+            "power": 100
+        }
+    ]
+}
